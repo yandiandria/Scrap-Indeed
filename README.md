@@ -1,3 +1,6 @@
+[[OBSOLETE]] 
+Indeed's html page has changed since the last edit
+
 "# Scrap-Indeed" 
 Goal :
 Create a JSON file that contains the title, description, localisation, company of job offers that are currently on Indeed.
