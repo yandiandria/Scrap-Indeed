@@ -6,7 +6,8 @@ Skills developed :
 - HTML parsing
 - Fake User Agent
 - Basic Pandas manipulations
-Random uniform sleep time in [0-15] seconds added to be less detectable.
+
+For parsing / scraping : Random uniform sleep time in [0-15] seconds added to be less detectable.
 Does not work well if the sleep time window is smaller.
 
 
